@@ -12,7 +12,7 @@
 
 ## Get in Touch
 - 📫 Feel free to reach out to me via [email](mailto:harmansandhu179@outlook.com) if you'd like to collaborate or chat.
-- 📱 Connect with me on [LinkedIn]([https://www.linkedin.com/in/harman-sandhu](https://www.linkedin.com/in/harman-sandhu-072b8727b/)) for professional networking.
+- 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/harman-sandhu-072b8727b/) for professional networking.
 - 🌐 Check out my personal website (coming soon) for updates on my projects and interests.
 
 Thanks for stopping by! 😄
