@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Harman Sandhu! 🚀  
 
 ### 🧑‍💻 About Me  
-- 🎓 Third-year Computer Science student at the University of British Columbia.  
-- 💡 Currently interning as a Software Engineer and building scalable full-stack applications.  
+- 🎓 Fourth-year Computer Science student at the University of British Columbia.  
+- 💡 Previously, I interned at **Ontraccr Technologies** as a **Software Engineer** and at **Goodself** as a **Software Developer**, where I worked on full-stack and frontend features across web and mobile platforms.
 - ⚙️ Passionate about creating clean, maintainable code and turning real-world problems into digital solutions.  
 
 ---
@@ -21,7 +21,6 @@ Built with **React, TypeScript, Node.js, Prisma, and AWS**, implementing secure 
 
 ### 🏀 Interests  
 - 🏀 Playing basketball — always down for a game.  
-- 🎮 Video game enthusiast — let’s connect and play sometime.  
 - ✨ Enjoy hanging out with friends and making good memories.  
 
 ---
