@@ -2,7 +2,7 @@
 
 ### 🧑‍💻 About Me  
 - 🎓 Fourth-year Computer Science student at the University of British Columbia.  
-- 💡 Previously, I interned at **Ontraccr Technologies** as a **Software Engineer** and at **Goodself** as a **Software Developer**, where I worked on full-stack and frontend features across web and mobile platforms.
+- 💡 Previously, interned at **Ontraccr Technologies** as a **Software Engineer** and at **Goodself** as a **Software Developer**, where I worked on full-stack and frontend features across web and mobile platforms.
 - ⚙️ Passionate about creating clean, maintainable code and turning real-world problems into digital solutions.  
 
 ---
