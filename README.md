@@ -10,12 +10,12 @@
 ### 💼 Featured Projects  
 
 #### [Goodself](https://goodself.com)  
-Frontend development for a wellness-focused social platform built with **React, JavaScript, and Tailwind CSS**.  
-Collaborated with designers and product managers to rebuild marketing pages, ensuring responsive layouts, pixel-perfect design, and high performance.  
+Created all the marketing landing pages for Goodself using **React, JavaScript, and Tailwind CSS**.  
 
 #### [LeaserFlow](https://leaserflow.com) *(Repo available upon request)*  
-Developed and delivered a **full-stack web application** acquired for production use by a trucking company.  
-Built with **React, TypeScript, Node.js, Prisma, and AWS**, implementing secure authentication, SQL-driven APIs, and automated financial workflows.  
+Developed and delivered a full-stack web app **acquired for production use by** a trucking company with 10+
+staff, enabling end-to-end management of equipment leasing, inventory tracking, and financial reporting.
+Built using React, TypeScript, Hapi.js, MySQL, Prisma, AWS
 
 ---
 
