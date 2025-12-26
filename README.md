@@ -69,5 +69,3 @@ MySQL · PostgreSQL · MongoDB · AWS · GitHub Actions
 - 📧 **Email:** [harmansandhu179@outlook.com](mailto:harmansandhu179@outlook.com)  
 - 💼 **LinkedIn:** https://linkedin.com/in/harman  
 - 🌐 **Website:** https://harmansandhu.dev  
-
-Thanks for stopping by 🙂
