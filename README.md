@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Harman Sandhu
 
-🎓 Fourth-year Computer Science student at the University of British Columbia
+🎓 Fourth-year Computer Science student at the University of British Columbia  
 💼 Former **Software Engineer Intern @ Ontraccr Technologies** and **Software Developer Intern @ Goodself**
 
 I enjoy building reliable, scalable software and turning real-world problems into clean, maintainable systems.  
@@ -28,7 +28,7 @@ My experience spans full-stack web development, mobile, and production ready bac
 🌐 https://leaserflow.com  
 
 - Designed and delivered a full-stack web application acquired for production use by a trucking company (10+ staff)
-- Implemented JWT authentication**, role-protected APIs, and schema validation
+- Implemented JWT authentication, role-protected APIs, and schema validation
 - Designed and optimized a MySQL + Prisma database
 - Deployed with Docker and GitHub Actions CI/CD
 - Tech stack: React, TypeScript, Hapi.js, MySQL, Prisma, AWS
