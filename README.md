@@ -11,10 +11,14 @@ My experience spans **full-stack web development**, **mobile**, and **production
 ## 🧑‍💻 Experience Snapshot
 
 - **Ontraccr Technologies** — Software Engineer Intern  
-  Built cross-platform scheduling features, improved system reliability, and worked on real-time collaboration using WebSockets.
+  Built cross-platform scheduling features, improved system reliability, and implemented real-time collaboration using WebSockets.
 
 - **Goodself** — Software Developer Intern  
   Rebuilt marketing sites, integrated analytics, developed backend-connected forms, and led QA from development to production.
+
+- **All-Star Tutoring** — Founder  
+  Built and operated a tutoring business supporting **40+ students**, managing curriculum and scheduling.
+
 
 ---
 
