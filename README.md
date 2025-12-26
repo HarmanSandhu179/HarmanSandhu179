@@ -1,35 +1,69 @@
-# 👋 Hello, I'm Harman Sandhu! 🚀  
+# 👋 Hi, I’m Harman Sandhu
 
-### 🧑‍💻 About Me  
-- 🎓 Fourth-year Computer Science student at the University of British Columbia.  
-- 💡 Previously, interned at **Ontraccr Technologies** as a **Software Engineer** and at **Goodself** as a **Software Developer**, where I worked on full-stack and frontend features across web and mobile platforms.
-- ⚙️ Passionate about creating clean, maintainable code and turning real-world problems into digital solutions.  
+🎓 **Fourth-year Computer Science student at the University of British Columbia**  
+💼 Former **Software Engineer Intern @ Ontraccr Technologies** and **Software Developer Intern @ Goodself**
 
----
-
-### 💼 Featured Projects  
-
-#### [Goodself](https://goodself.com)  
-Created all the marketing landing pages for Goodself using **React, JavaScript, and Tailwind CSS**.  
-
-#### [LeaserFlow](https://leaserflow.com) *(Repo available upon request)*  
-Developed and delivered a full-stack web app **acquired for production use by** a trucking company with 10+
-staff, enabling end-to-end management of equipment leasing, inventory tracking, and financial reporting.
-Built using React, TypeScript, Hapi.js, MySQL, Prisma, AWS
+I enjoy building reliable, scalable software and turning real-world problems into clean, maintainable systems.  
+My experience spans **full-stack web development**, **mobile**, and **production-grade backend systems**.
 
 ---
 
-### 🏀 Interests  
-- 🏀 Playing basketball — always down for a game.  
-- ✨ Enjoy hanging out with friends and making good memories.  
+## 🧑‍💻 Experience Snapshot
+
+- **Ontraccr Technologies** — Software Engineer Intern  
+  Built cross-platform scheduling features, improved system reliability, and worked on real-time collaboration using WebSockets.
+
+- **Goodself** — Software Developer Intern  
+  Rebuilt marketing sites, integrated analytics, developed backend-connected forms, and led QA from development to production.
 
 ---
 
-### 📫 Get in Touch  
-- 📧 [Email me](mailto:harmansandhu179@outlook.com) if you'd like to collaborate or chat.  
-- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/harman).  
-- 🌐 Check out my [personal website](https://harmansandhu.dev) for more about my projects and experience.  
+## 🚀 Featured Projects
+
+### 🔹 Goodself — Marketing Platform  
+🌐 https://goodself.com  
+
+- Built and shipped marketing landing pages using **React, JavaScript, and Tailwind CSS**
+- Created reusable components aligned with Figma designs
+- Integrated analytics and improved performance using React hooks
 
 ---
 
-Thanks for stopping by! 😄  
+### 🔹 LeaserFlow *(Private repo — available upon request)*  
+🌐 https://leaserflow.com  
+
+- Designed and delivered a **full-stack web application acquired for production use** by a trucking company (10+ staff)
+- Implemented **JWT authentication**, **role-protected APIs**, and **schema validation**
+- Designed and optimized a **MySQL + Prisma** database
+- Deployed with **Docker** and **GitHub Actions CI/CD**
+- Tech stack: **React, TypeScript, Hapi.js, MySQL, Prisma, AWS**
+
+---
+
+### 🔹 Window Designer *(In progress)*  
+- Canvas-based window configuration tool using **TypeScript, Konva, and Jotai**
+- Custom formula engine for production measurements and cost calculation
+- PDF generation service written in **Go (Maroto)** for manufacturing sheets
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+TypeScript · JavaScript · Python · Java · C/C++ · SQL  
+
+**Frameworks & Tools**  
+React · React Native · Node.js · Express · Hapi.js · Redux · Tailwind CSS · Jest · Docker  
+
+**Databases & Cloud**  
+MySQL · PostgreSQL · MongoDB · AWS · GitHub Actions  
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 **Email:** [harmansandhu179@outlook.com](mailto:harmansandhu179@outlook.com)  
+- 💼 **LinkedIn:** https://linkedin.com/in/harman  
+- 🌐 **Website:** https://harmansandhu.dev  
+
+Thanks for stopping by 🙂
