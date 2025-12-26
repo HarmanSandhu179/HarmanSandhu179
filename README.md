@@ -20,15 +20,6 @@ My experience spans **full-stack web development**, **mobile**, and **production
 
 ## 🚀 Featured Projects
 
-### 🔹 Goodself — Marketing Platform  
-🌐 https://goodself.com  
-
-- Built and shipped marketing landing pages using **React, JavaScript, and Tailwind CSS**
-- Created reusable components aligned with Figma designs
-- Integrated analytics and improved performance using React hooks
-
----
-
 ### 🔹 LeaserFlow *(Private repo — available upon request)*  
 🌐 https://leaserflow.com  
 
@@ -37,6 +28,15 @@ My experience spans **full-stack web development**, **mobile**, and **production
 - Designed and optimized a **MySQL + Prisma** database
 - Deployed with **Docker** and **GitHub Actions CI/CD**
 - Tech stack: **React, TypeScript, Hapi.js, MySQL, Prisma, AWS**
+
+---
+
+### 🔹 Goodself — Marketing Platform  
+🌐 https://goodself.com  
+
+- Built and shipped marketing landing pages using **React, JavaScript, and Tailwind CSS**
+- Created reusable components aligned with Figma designs
+- Integrated analytics and improved performance using React hooks
 
 ---
 
