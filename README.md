@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Harman Sandhu
 
-🎓 **Fourth-year Computer Science student at the University of British Columbia**  
+🎓 Fourth-year Computer Science student at the University of British Columbia
 💼 Former **Software Engineer Intern @ Ontraccr Technologies** and **Software Developer Intern @ Goodself**
 
 I enjoy building reliable, scalable software and turning real-world problems into clean, maintainable systems.  
-My experience spans **full-stack web development**, **mobile**, and **production-grade backend systems**.
+My experience spans full-stack web development, mobile, and production ready backend systems.
 
 ---
 
@@ -17,7 +17,7 @@ My experience spans **full-stack web development**, **mobile**, and **production
   Rebuilt marketing sites, integrated analytics, developed backend-connected forms, and led QA from development to production.
 
 - **All-Star Tutoring** — Founder  
-  Built and operated a tutoring business supporting **40+ students**, managing curriculum and scheduling.
+  Built and operated a tutoring business supporting 40+ students, managing curriculum and scheduling.
 
 
 ---
@@ -27,27 +27,27 @@ My experience spans **full-stack web development**, **mobile**, and **production
 ### 🔹 LeaserFlow *(Private repo — available upon request)*  
 🌐 https://leaserflow.com  
 
-- Designed and delivered a **full-stack web application acquired for production use** by a trucking company (10+ staff)
-- Implemented **JWT authentication**, **role-protected APIs**, and **schema validation**
-- Designed and optimized a **MySQL + Prisma** database
-- Deployed with **Docker** and **GitHub Actions CI/CD**
-- Tech stack: **React, TypeScript, Hapi.js, MySQL, Prisma, AWS**
+- Designed and delivered a full-stack web application acquired for production use by a trucking company (10+ staff)
+- Implemented JWT authentication**, role-protected APIs, and schema validation
+- Designed and optimized a MySQL + Prisma database
+- Deployed with Docker and GitHub Actions CI/CD
+- Tech stack: React, TypeScript, Hapi.js, MySQL, Prisma, AWS
 
 ---
 
 ### 🔹 Goodself — Marketing Platform  
 🌐 https://goodself.com  
 
-- Built and shipped marketing landing pages using **React, JavaScript, and Tailwind CSS**
+- Built and shipped marketing landing pages using React, JavaScript, and Tailwind CSS
 - Created reusable components aligned with Figma designs
 - Integrated analytics and improved performance using React hooks
 
 ---
 
 ### 🔹 Window Designer *(In progress)*  
-- Canvas-based window configuration tool using **TypeScript, Konva, and Jotai**
+- Canvas-based window configuration tool using TypeScript, Konva, and Jotai
 - Custom formula engine for production measurements and cost calculation
-- PDF generation service written in **Go (Maroto)** for manufacturing sheets
+- PDF generation service written in Go (Maroto) for manufacturing sheets
 
 ---
 
